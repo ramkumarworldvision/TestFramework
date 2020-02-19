@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>WorldVisionUK</id>
+    <version>1.0.0</version>
+    <title>Automation</title>
+    <authors>RamKumar</authors>
+    <owners>WorldVisionUK</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <description>AutomationFramework</description>
+    <releaseNotes>Automation Framework Package</releaseNotes>
+    <copyright>Copyright 2020</copyright>
+  </metadata>
+</package>
